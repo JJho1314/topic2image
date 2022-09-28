@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="topic2image" type="topic2image" name="topic2image" output="screen" ns="/gmsl_cam">
+    </node>
+
+</launch>
